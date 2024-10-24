@@ -1,0 +1,38 @@
+table{
+    width: 60%;
+    border-collapse: collapse;
+    
+    
+}
+
+
+.h {
+    background-color: yellow;
+    font-size: 24px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.p{
+    background-color: pink;
+    text-align: center;
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black;
+    text-align: center;
+    width: 10%;
+}
+.ph{
+    background-color: pink;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 25px;
+    padding: 20px;
+    
+    
+
+}
+
+
